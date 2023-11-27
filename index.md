@@ -2,8 +2,7 @@
 ## 讲员：彭老师
 ## 主题：2023年度感恩特会
 
-<audio controls src="./231126_01.mp3"></audio>
-<audio controls src="./231126_02.mp3"></audio>
+<audio controls src="./231126.mp3"></audio>
 
 ![](./01.jpg)
 ![](./02.jpg)
